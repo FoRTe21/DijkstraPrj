@@ -1,0 +1,5 @@
+
+korea japan 5
+
+japan korea 5
+japan china 7

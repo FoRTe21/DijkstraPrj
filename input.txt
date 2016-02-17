@@ -1,0 +1,195 @@
+
+korea japan 5
+
+japan korea 5
+japan china 6
+japan russia 9
+
+china japan 5
+china taiwan 5
+china laos 8
+china russia 10
+
+taiwan china 5
+taiwan finland 9
+taiwan france 8
+taiwan germany 6
+taiwan laos 7
+
+laos taiwan 7
+laos china 8
+laos germany 5
+laos congo 6
+laos russia 7
+
+russia laos 7
+russia congo 8
+russia china 10
+russia japan 9
+
+congo austria 9
+congo germany 5
+congo laos 6
+congo russia 8
+
+austria france 10
+austria germany 10
+austria congo 9
+
+germany france 7
+germany austria 10
+germany congo 5
+germany laos 5
+germany taiwan 6
+
+france finland 6
+france egypt 5
+france turkey 8
+france austria 10
+france germany 7
+france taiwan 8
+
+finland norway 7
+finland egypt 10
+finland france 6
+finland taiwan 9
+
+
+turkey egypt 7
+turkey france 8
+turkey italy 9
+turkey sweden 10
+
+egypt norway 8
+egypt finland 10
+egypt france 5
+egypt turkey 7
+egypt sweden 5
+
+norway finland 7
+norway egypt 8
+norway sweden 6
+norway cambodia 8
+norway mexico 9
+
+italy turkey 9
+italy sweden 8
+italy poland 7
+
+sweden norway 6
+sweden cambodia 6
+sweden poland 9
+sweden italy 8
+sweden turkey 10
+sweden egypt 5
+
+cambodia mexico 5
+cambodia greece 10
+cambodia poland 8
+cambodia sweden 6
+cambodia norway 8
+cambodia mali 7
+
+mexico norway 9
+mexico nepal 9
+mexico greece 10
+mexico cambodia 5
+
+poland italy 7
+poland sweden 9
+poland cambodia 8
+poland mali 5
+
+mali poland 5
+mali buthon 5
+mali greece 5
+mali cambodia 7
+
+greece nepal 8
+greece brazil 7
+greece buthon 6
+greece mali 5
+greece cambodia 10
+greece mexico 10
+
+
+nepal iran 10
+nepal brazil 5
+nepal greece 8
+nepal mexico 9
+
+buthon mali 5
+buthon greece 6
+buthon brazil 8
+buthon spain 8
+
+spain buthon 8
+spain brazil 9
+spain chile 7
+
+brazil iran 9
+brazil peru 7
+brazil chile 8
+brazil spain 9
+brazil buthon 8
+brazil greece 7
+brazil nepal 5
+
+iran peru 6
+iran brazil 9
+iran nepal 10
+
+peru iran 6
+peru brazil 7
+peru chile 8
+
+chile peru 8
+chile brazil 8
+chile spain 7
+
+bolivia norway 5
+bolivia finland  8
+bolivia taiwan 7
+
+hongkong mexico 8
+hongkong cuba 5
+hongkong norway 7
+
+cuba hongkong 5
+cuba norway 6
+cuba bolivia 7
+
+israel peru 10
+israel iran 8
+isreal nepal 9
+
+arab mexico 6
+arab hongkong 5
+arab cuba 6
+arab libya 8
+
+libya arab 8
+libya cuba 5
+libya sudan 8
+
+sudan libya 8
+sudan cuba 5
+sudan bolivia 6
+
+qator nepal 5
+qator mexico 7
+qator arab 8
+
+panama israel 10
+panama nepal 5
+panama qator 8
+
+monaco sudan 5
+monaco bolivia 6
+monaco taiwan 7
+monaco mongolia 7
+
+mongolia monaco 7
+mongolia taiwan 5
+mongolia china 8
+
